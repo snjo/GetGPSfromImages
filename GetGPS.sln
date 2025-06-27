@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetGPS", "ImageToConsole\GetGPS.csproj", "{110362DF-1EA3-41EB-B525-7480C3E6EF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110362DF-1EA3-41EB-B525-7480C3E6EF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110362DF-1EA3-41EB-B525-7480C3E6EF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110362DF-1EA3-41EB-B525-7480C3E6EF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110362DF-1EA3-41EB-B525-7480C3E6EF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F88E03-91AC-4118-9929-783E01D2A56E}
+	EndGlobalSection
+EndGlobal
