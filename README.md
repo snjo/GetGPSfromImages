@@ -17,7 +17,7 @@ c:\tmp\1.jpg;N;50;7;48;E;11;13;32;7;50.13;10.2256;https://www.google.com/maps/pl
 The CSV Delimiter is semicolon to avoid comma issues in coordinates and links
 
 ## Information in the CSV output
- -File path
+- File path
 - GPS Latitude North or South, degrees, minutes, seconds
 - GPS Longitude East or West, degrees, minutes, seconds
 - Altitude above sea level
