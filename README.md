@@ -1,6 +1,9 @@
 # Get GPS from images
 Scans through a file or directory and outputs a CSV containing the file and GPS location for each.
 
+Run the application with the path as an argument, or enter it when prompted.
+Drag and drop a file or folder onto the exe to supply the path automatically.
+
 The CSV file is saved to C:\tmp\
 Make sure this folder exists before running the scan.
 
